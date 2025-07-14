@@ -12,8 +12,6 @@ body{
 #Titulo{
     color: white;
     font-style: italic;
-    border: white solid;
-    border-radius: 50%;
     max-width: 200px;
     text-align: center;
 }
